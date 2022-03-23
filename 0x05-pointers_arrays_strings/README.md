@@ -6,3 +6,4 @@ task 4,print a string to stdout
 task 5, print string in reverse order
 task 6, reverse a string
 task 7, print every character of string
+task 8, print half of string
