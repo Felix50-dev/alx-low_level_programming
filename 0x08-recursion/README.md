@@ -6,3 +6,4 @@ task 4, power of a number using recursion
 task 5, square root through recursion
 task 6, check if a number is a prime number
 task 7, chek if a string is a pallindrome
+task 8, check if two strings are equal.
