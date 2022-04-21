@@ -1,0 +1,1 @@
+this module begins the data structures journey, first we learn about linked lists, specifically singly linked lists, practice questions are shown in the section below :)
